@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mokdong-room-note.cheongdam-shirts-zone.xyz/sitemap.xml
+Sitemap: https://mokdong-room-note.cheongdam-shirts-zone.xyz/sitemap-pages.xml
